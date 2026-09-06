@@ -5,6 +5,11 @@
 > **Học phần**: CS114 — Nhập môn Máy học (Machine Learning)  
 > **Bộ dữ liệu**: UIT-VSMEC (*Vietnamese Social Media Emotion Corpus*)  
 > **Trạng thái**: Đã tải dữ liệu cục bộ (`CS114/data/vsmec/`) & hoàn thiện đề cương  
+> **Nhóm thực hiện (4 thành viên)**:
+> 1. **Lê Quang Thi** — MSSV: `25210337` (Nhóm trưởng)
+> 2. **Trần Trọng Tấn** — MSSV: `25210334`
+> 3. **Nguyễn Quang Lâm** — MSSV: `25210289`
+> 4. **Võ Cẩm Thu** — MSSV: `25210342`
 
 ---
 

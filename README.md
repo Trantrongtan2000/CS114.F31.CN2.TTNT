@@ -3,7 +3,11 @@
 
 > **Trường**: Đại học Công nghệ Thông tin — ĐHQG-HCM (UIT)  
 > **Mã lớp**: CS114.F31.CN2.TTNT — Nhập môn Máy học  
-> **Sinh viên thực hiện**: Trần Trọng Tấn (25210334)  
+> **Nhóm sinh viên thực hiện (4 thành viên)**:
+> - **Lê Quang Thi** — MSSV: `25210337` (Nhóm trưởng)
+> - **Trần Trọng Tấn** — MSSV: `25210334`
+> - **Nguyễn Quang Lâm** — MSSV: `25210289`
+> - **Võ Cẩm Thu** — MSSV: `25210342`
 > **Bộ dữ liệu**: UIT-VSMEC (*Vietnamese Social Media Emotion Corpus*) — 6.927 mẫu, 7 nhãn  
 
 ---
