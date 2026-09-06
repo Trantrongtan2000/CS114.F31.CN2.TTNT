@@ -1,0 +1,40 @@
+# Video & Media lớn (> 100MB)
+*.mp4
+media/
+*.avi
+*.mkv
+
+# Python & Jupyter Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual Environments
+venv/
+.env/
+env/
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+.claude-flow/
+
+# Tài liệu học tập chung của môn (không thuộc mã nguồn đồ án)
+CS114_GIAO_TRINH_*
+CS114_Giao_Trinh_*
+assignments/
+slides/
+notes/
+docs/
+images/
+code/
+Lab04_CreditCardFraud/
+study_guide_cs114.html

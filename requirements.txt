@@ -1,0 +1,13 @@
+# Core Machine Learning & Data Science
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Vietnamese Natural Language Processing
+pyvi>=0.1.1
+underthesea>=6.8.0
+
+# Dataset Hub (Optional, to reload raw data)
+datasets>=2.14.0
